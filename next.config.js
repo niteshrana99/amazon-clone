@@ -1,4 +1,5 @@
 module.exports = {
+    distDir: 'build',
     images: {
         domains: ['links.papareact.com' ,  'fakestoreapi.com']
     },
